@@ -207,3 +207,10 @@ aside#lateral h2{
     color: #ffffff;
     padding: 5px;
 }
+video#vid1 {
+    block-size: 287px;
+}
+video#vid2 {
+    block-size: 195px;
+    margin: 2px;
+}
